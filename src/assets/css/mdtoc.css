@@ -1,0 +1,42 @@
+.my-markdown-toc-list {
+    font-size: 13px;
+    width: 250px;
+    padding: 5px 10px 0 15px;
+    background-color: rgba(210,210,210,0.1);
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+.my-markdown-toc-list ul {
+    display: block;
+}
+
+.my-markdown-toc-list li {
+    display: block;
+    padding-bottom: 2px;
+}
+
+.my-markdown-toc-list a {
+    color: rgba(0, 0, 0, 0.6);
+    text-underline: none;
+}
+
+.my-toc-level-1 {
+    padding: 10px 0;
+}
+.my-toc-level-2 {
+    padding-left: 10px;
+    font-weight: bolder;
+}
+.my-toc-level-3 {
+    padding-left: 15px;
+}
+.my-toc-level-4 {
+    padding-left: 20px;
+}
+.my-toc-level-5 {
+    padding-left: 25px;
+}
+.my-toc-level-6 {
+    padding-left:30px;
+}
